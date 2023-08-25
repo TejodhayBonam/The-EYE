@@ -2,7 +2,7 @@
   <br>
   <a href="https://youtu.be/3wrseXG_6Qw"><img src="/data/logo.png" alt="The Eye of Sauron" width="200"></a>
   <br>
-  The Eye of Sauron
+  The Eye
   <br>
 </h1>
 
