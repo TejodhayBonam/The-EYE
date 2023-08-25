@@ -1,0 +1,20 @@
+# exclude
+
+copy_to_remote.sh
+data/*
+models/*
+scratches/*
+.idea
+real-time-object-detection
+__pycache__
+.ipynb_checkpoints
+*.npy
+*.h5
+
+# include
+!data/*.md
+!data/*.png
+!data/*.gif
+!data/*.jpg
+!data/query_faces
+!models/*.md
