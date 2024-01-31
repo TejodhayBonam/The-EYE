@@ -55,7 +55,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [pyth
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/rrqq/eye_of_sauron.git
+$ git clone https://github.com/TejodhayBonam/The-EYE.git
 
 # Go into the repository
 $ cd eye_of_sauron
@@ -87,7 +87,7 @@ $ dos2unix run_consumers.py
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/rrqq/eye_of_sauron.git
+$ git clone https://github.com/TejodhayBonam/The-EYE.git
 
 # Install dependencies
 $ sudo pip3 install -r requirements.txt
@@ -144,8 +144,3 @@ This software uses following open source packages.
 
 * * *
 
-## ✏️ Contact
-
-> [Linkedin](https://www.linkedin.com/in/mehra-rohit/)  · 
-> GitHub [@rohit-mehra](https://github.com/rohit-mehra)  · 
-> Kaggle [@rrqqmm](https://www.kaggle.com/rrqqmm)
